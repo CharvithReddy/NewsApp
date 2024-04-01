@@ -1,3 +1,8 @@
+Before starting this repository does not contain the node modules required to run the app. please generate the node modules on your local system using package.json files present
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
