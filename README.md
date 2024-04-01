@@ -1,5 +1,4 @@
-Before starting this repository does not contain the node modules required to run the app. please generate the node modules on your local system using package.json files present
-
+This repository does not contain the required node modules to run this app directly. Please generate the node modules in your local system using package.json and package-lock.json files.
 
 
 
