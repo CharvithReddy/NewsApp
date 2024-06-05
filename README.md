@@ -38,6 +38,7 @@ Interactive Elements: Added interactive elements like clickable cards to view fu
 **Code Quality**: Followed best practices for clean and maintainable code, including modular component design and efficient state management.
 
 
+# Instruction
 
 run npm install to generate node modules required to run the project
 
