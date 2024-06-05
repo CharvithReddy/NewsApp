@@ -1,4 +1,4 @@
-**React News App**
+#            **React News App**
 
 # `Overview:`
 Developed a dynamic and responsive news application using React, using third-party modules and the News API Key. This app provides users with up-to-date news articles across various categories, ensuring a seamless and engaging user experience.
